@@ -1,6 +1,9 @@
 # go-jenkins
 Jenkins API Client in Go, support The Blue Ocean REST API.
 
+## Installation
+go get github.com/opswave/go-jenkins
+
 ## About
 
 Jenkins is the most popular Open Source Continuous Integration system. This Library will help you interact with Jenkins in a more developer-friendly way.
